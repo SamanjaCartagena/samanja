@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SamanjaCartagena/samanja/static/css/main.6995f99b.chunk.css",
+    "main.js": "/SamanjaCartagena/samanja/static/js/main.3554c085.chunk.js",
+    "main.js.map": "/SamanjaCartagena/samanja/static/js/main.3554c085.chunk.js.map",
+    "runtime-main.js": "/SamanjaCartagena/samanja/static/js/runtime-main.6571f57a.js",
+    "runtime-main.js.map": "/SamanjaCartagena/samanja/static/js/runtime-main.6571f57a.js.map",
+    "static/js/2.c2c71b0e.chunk.js": "/SamanjaCartagena/samanja/static/js/2.c2c71b0e.chunk.js",
+    "static/js/2.c2c71b0e.chunk.js.map": "/SamanjaCartagena/samanja/static/js/2.c2c71b0e.chunk.js.map",
+    "static/js/3.13fc8bc2.chunk.js": "/SamanjaCartagena/samanja/static/js/3.13fc8bc2.chunk.js",
+    "static/js/3.13fc8bc2.chunk.js.map": "/SamanjaCartagena/samanja/static/js/3.13fc8bc2.chunk.js.map",
+    "index.html": "/SamanjaCartagena/samanja/index.html",
+    "static/css/main.6995f99b.chunk.css.map": "/SamanjaCartagena/samanja/static/css/main.6995f99b.chunk.css.map",
+    "static/js/2.c2c71b0e.chunk.js.LICENSE.txt": "/SamanjaCartagena/samanja/static/js/2.c2c71b0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6571f57a.js",
+    "static/js/2.c2c71b0e.chunk.js",
+    "static/css/main.6995f99b.chunk.css",
+    "static/js/main.3554c085.chunk.js"
+  ]
+}
