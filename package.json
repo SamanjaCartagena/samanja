@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.io/SamanjaCartagena/samanja/master",
+  "homepage": "https://github.io/SamanjaCartagena/samanja",
   "name": "samanja",
   "version": "0.1.0",
   "dependencies": {
@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.4.0",
+    "aws-amplify": "^3.3.11",
     "express": "^4.17.1",
     "gh-pages": "^3.1.0",
     "git": "^0.1.5",
@@ -48,6 +49,7 @@
   "main": "index.js",
   "devDependencies": {},
   "repository": {
+    "repository": "https://github.com/SamanjaCartagena/samanja",
     "type": "git",
     "url": "git+https://github.com/SamanjaCartagena/samanja.git"
   },
@@ -57,6 +59,6 @@
     "url": "https://github.com/SamanjaCartagena/samanja/issues"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/SamanjaCartagena"
   }
 }
